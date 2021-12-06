@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Techstore\\Classes\\" : "classes/",
+            "Techstore\\Classes\\Models\\" : "classes/Model/"
+        }
+    }
+}
